@@ -1,0 +1,16 @@
+Byar                    Byar prostate cancer data set.
+clustMD                 Model Based Clustering for Mixed Data
+clustMD-package         Model based clustering for mixed data: clustMD
+clustMDlist             Model Based Clustering for Mixed Data
+clustMDparallel         Run multiple clustMD models in parallel
+getOutput_clustMDparallel
+                        Extracts relevant output from 'clustMDparallel'
+                        object
+plot.clustMD            Plotting method for objects of class 'clustMD'
+plot.clustMDparallel    Summary plots for a clustMDparallel object
+print.clustMD           Print basic details of 'clustMD' object.
+print.clustMDparallel   Print basic details of 'clustMDparallel' object
+summary.clustMD         Summarise 'clustMD' object
+summary.clustMDparallel
+                        Prints a summary of a clustMDparallel object to
+                        screen.

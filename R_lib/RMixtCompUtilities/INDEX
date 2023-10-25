@@ -1,0 +1,42 @@
+RMixtCompUtilities-package
+                        RMixtCompUtilities
+availableModels         Available models
+completeAlgo            Add the missing element to algo parameter
+computeDiscrimPowerVar
+                        Discriminative power
+computeSimilarityVar    Similarity
+convertFunctionalToVector
+                        Convert a MixtComp functional string into a
+                        list of 2 vectors
+createAlgo              Create algo object
+createFunctional        Create a functional in MixtComp format
+formatData              Format the data parameter required by rmc
+formatModel             Format the model parameter
+getBIC                  Get criterion value
+getCompletedData        Get the completed data from MixtComp object
+getEmpiricTik           Get the tik
+getMixtureDensity       Get the mixture density
+getParam                Get the estimated parameter
+getPartition            Get the estimated class from MixtComp object
+getType                 Names and Types Getters
+heatmapClass            Heatmap of the similarities between classes
+                        about clustering
+heatmapTikSorted        Heatmap of the tik = P(Z_i=k|x_i)
+heatmapVar              Heatmap of the similarities between variables
+                        about clustering
+histMisclassif          Histogram of the misclassification
+                        probabilities
+plot.MixtComp           Plot of a _MixtComp_ object
+plotConvergence         Convergence of algorithm
+plotDataBoxplot         Boxplot per class
+plotDataCI              Mean and 95%-level confidence intervals per
+                        class
+plotDiscrimClass        Barplot of the discriminative power of the
+                        classes
+plotDiscrimVar          Barplot of the discriminative power of the
+                        variables
+plotParamConvergence    Evolution of parameters
+plotProportion          Plot the mixture's proportions
+print.MixtComp          Print Values
+refactorCategorical     Rename a categorical value
+summary.MixtComp        MixtComp Object Summaries

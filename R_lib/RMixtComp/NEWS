@@ -1,0 +1,63 @@
+v4.1.4 2023-06-17
+- add references
+- add missing return value in documentation
+- change maintainer
+- correct vignette URL and index entries
+- remove blockcluster from suggested packages
+- lint
+
+v4.1.3 2021-03-29
+- add crit param to plotCrit function
+- add documentation
+- add total time of all runs in MixtCompLearn object
+- suggest rmarkdown instead of markdown
+
+v4.1.2 2020-06-17
+- hierarchical mode starts with the model with 1 class
+- manage statistics about completed data
+
+v4.1.1 2020-04-01
+- add vignettes
+- add predict function
+
+v4.1.0 2019-12-17
+- add slopeHeuristic and extractMixtCompObject functions
+- plotCrit's improvement
+- add plotData parameter to plot.MixtCompLearn (following the update of RMixtCompUtilities)
+- add skip_on_cran() to reduce elapsed time
+- add vignettes
+
+v4.0.2 2019-09-16
+- change some parameters in examples and tests
+- disable tests that generate unexpected errors on cran
+
+v4.0.1 2019-09-04
+- change some parameters in examples and tests
+
+v4.0.0 2019-07-22
+- change version number
+
+v0.7 2019-07-02
+- move rmc and rmcMultiRun to RMixtCompIO package
+
+v0.6.1 2019-04-26
+- new latent and unobserved initialization
+
+v0.6 2018-12-18
+- add missing values intervals for Weibull, Poisson and NegativeBinomial
+
+v0.5.1 2018-11-27
+- Use nStableCriterion and ratioStableCriterion
+- param log exported
+
+v0.5 2018-11-12
+- add hierarchical mode
+
+v0.4.5 2018-11-08
+- add basic mode
+- add prostate data
+
+v0.4 2018-10-24
+- use MixtComp v4
+- add parallelization
+- add ggplot2 plots

@@ -1,0 +1,14 @@
+RMixtComp-package	RMixtComp-package
+CanadianWeather	CanadianWeather
+extractMixtCompObject	extractMixtCompObject
+mixtCompLearn	mixtCompLearn
+mixtCompPredict	mixtCompLearn
+plot.MixtCompLearn	plot.MixtCompLearn
+plotCrit	plotCrit
+predict.MixtComp	predict.MixtComp
+print.MixtCompLearn	print.MixtCompLearn
+prostate	prostate
+simData	simData
+slopeHeuristic	slopeHeuristic
+summary.MixtCompLearn	summary.MixtCompLearn
+titanic	titanic

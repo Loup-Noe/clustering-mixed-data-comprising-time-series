@@ -1,0 +1,13 @@
+CanadianWeather         Canadian average annual weather cycle
+RMixtComp-package       RMixtComp
+extractMixtCompObject   Extract a MixtComp object
+mixtCompLearn           Learn and predict using RMixtComp
+plot.MixtCompLearn      Plot of a _MixtCompLearn_ object
+plotCrit                Plot BIC and ICL
+predict.MixtComp        Predict using RMixtComp
+print.MixtCompLearn     Print Values
+prostate                Prostate Cancer Data
+simData                 Simulated Heterogeneous data
+slopeHeuristic          Slope heuristic
+summary.MixtCompLearn   MixtCompLearn Object Summaries
+titanic                 Titanic data set
